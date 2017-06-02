@@ -7,4 +7,3 @@ Para uso de formulários e cadastro ou qualquer outra forma de acesso que precis
 OBS 
 * No index exite uma chamada a um js do google que é preciso para uso do Recaptch
 https://www.google.com/recaptcha/api.js
-* 
